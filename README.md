@@ -1,67 +1,67 @@
-**Skill Circle Library Management System**
+                                                 ***My Skill Circle Library Management System***
+
+
+***Description:***
+
+
+This is a simple Python-based library management system that allows users to view the details of different books in a library. The program offers a list of five books, with the option to view detailed information for each book, such as the title, publication year, author, description, and price. The program provides an interactive user experience and allows users to continue browsing or exit the system.
+
+***Features:***
+
+
+Book List: Displays the available books in the library.
+
+
+Book Details: Users can select a book by number and view detailed information about the book, including:
+
+
+Book name
+
+
+Year of publication
+
+
+Author name
+
+
+Book description
+
+
+Price
+
+
+Repeat Option:
+
+Users are prompted to continue browsing or exit after viewing book details.
+User-Friendly Interface: The program prompts users with clear instructions and easy-to-read outputs.
+
+
+***Requirements:***
+
+
+Python 3.x installed on your machine.
+
+
+***How to Run the Program:***
+
+
+Download the Python file library_management_system.py to your local machine.
+
+Open a terminal or command prompt.
+
+Navigate to the directory where the library_management_system.py file is saved.
+
+
+***Screenshot:***
+
+
+![Screenshot 2025-01-18 204511](https://github.com/user-attachments/assets/c30396f8-fbe1-4191-9f07-8cfbdeafe4e2)
+
+
+![Screenshot 2025-01-18 204612](https://github.com/user-attachments/assets/95ae9a5a-5b01-424a-85a6-ed2ed2db35be)
 
 
 
-Welcome to the Skill Circle Library Management System! This program allows you to explore a collection of popular books and get detailed information about them.
 
-Features:
-Book List: A list of five books to choose from, including their names and publication years.
-Detailed Book Information: Upon selecting a book, the program provides the following details:
-Book Name
-Publication Year
-Author
-Book Description: A brief summary or description of the book.
-Book Collection:
-1. Mahabharata
-Published: 1951
-Author: Vasya
-Description: The Mahabharata is not just an epic but a comprehensive code of life, a philosophy of social and ethical relations, and a speculative work on human issues. It has shaped the soul of civilization for centuries.
-2. The Henna Artist
-Published: 2020
-Author: Alka Joshi
-Description: A compelling portrait of a woman's struggle for fulfillment in a society transitioning between the traditional and modern worlds. The Henna Artist explores themes of courage, love, and self-realization.
-3. When Dimple Met Rishi
-Published: 2017
-Author: Sandhya Menon
-Description: A delightful romantic comedy about Dimple Shah, a young woman who is determined to follow her path, and Rishi Patel, a hopeless romantic who believes in arranged marriage. Their summer camp experience brings love in unexpected ways.
-4. The God of Small Things
-Published: 1969
-Author: Arundhati Roy
-Description: Set in Kerala, this book focuses on twins Rahel and Esthappen, their family dynamics, and the powerful impact of history, politics, and love in shaping their lives.
-5. The Oath of the Vayuputras
-Published: 2013
-Author: Amish Tripathi
-Description: In the final part of the Shiva Trilogy, Shiva must lead a war against a force that threatens the soul of India. The book reveals deep mysteries and answers the fate of the nation and its hero, Shiva.
-Usage Instructions:
-Start the Program: The user is welcomed with the list of available books.
-Select a Book: Enter the number corresponding to the book to view detailed information about it.
-Continue or Exit: After viewing the details of a book, the user is asked whether they want to continue exploring more books or exit the program.
-Example Interaction:
-markdown
-Copy code
-WELCOME TO MY SKILL CIRCLE LIBRARY MANAGEMENT SYSTEM
-======TITLE OF BOOKS======
-1. Mahabharata
-2. The Henna Artist
-3. When Dimple Met Rishi
-4. The God of Small Things
-5. The Oath of the Vayuputras
-
-Enter a number: 1
-
-1. [BOOK NAME]: Mahabharata
-2. [Published]: 1951
-3. [Author]: Vasya
-4. [Description]: The Mahabharata is a philosophy of life, encompassing themes of heroism, relationships, and human struggles.
-
-Do you want to continue? (yes/no): yes
-
-How It Works:
-The program prompts the user to select a book number.
-Based on the input, it displays detailed information for the selected book.
-The user can choose to continue exploring or exit the program.
-Note:
-The program is case-insensitive when asking if the user wants to continue (yes or no).
-If an invalid option is selected (number not between 1-5), the program prompts the user to select a valid option.
-End of Program:
-Once the user decides to exit, they will receive a thank you message and the program will terminate.
+Conclusion:
+The My Skill Circle Library Management System is a simple Python-based program that allows users to explore books available in a library with detailed information. It provides an easy-to-use interface for users to interact with and offers a way to browse books, learn about them, and exit or continue browsing as per their choice. This program is a great example of a basic interactive system implemented in Python.
